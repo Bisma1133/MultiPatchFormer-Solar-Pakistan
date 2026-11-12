@@ -1,0 +1,17 @@
+model,Region,label,CLIPER,DLinear,LSTM,PatchTST,Smart persistence
+0,Islamabad,Monsoon (JJAS),0.0,0.7,3.8,4.3,-2.4
+1,Islamabad,Post-monsoon (ON),0.0,-2.4,-0.8,2.6,-5.7
+2,Islamabad,Pre-monsoon (MAM),0.0,-0.0,2.2,2.3,1.9
+3,Islamabad,Winter (DJF),0.0,-0.7,3.3,1.0,-0.0
+4,Karachi,Monsoon (JJAS),0.0,-1.1,1.0,0.1,-3.7
+5,Karachi,Post-monsoon (ON),0.0,-7.6,-8.1,-7.0,-0.4
+6,Karachi,Pre-monsoon (MAM),0.0,-1.6,-1.5,0.4,-3.5
+7,Karachi,Winter (DJF),0.0,-1.5,-4.4,-0.9,-4.6
+8,Lahore,Monsoon (JJAS),0.0,1.1,5.2,3.7,-2.8
+9,Lahore,Post-monsoon (ON),0.0,-2.3,-0.7,1.5,-9.3
+10,Lahore,Pre-monsoon (MAM),0.0,1.4,1.3,1.3,-0.8
+11,Lahore,Winter (DJF),0.0,-0.1,-0.1,3.2,-4.1
+12,Multan,Monsoon (JJAS),0.0,1.4,0.6,4.6,-2.6
+13,Multan,Post-monsoon (ON),0.0,-6.1,-4.1,1.2,-14.6
+14,Multan,Pre-monsoon (MAM),0.0,-0.4,0.1,0.5,-1.0
+15,Multan,Winter (DJF),0.0,-0.8,2.4,3.0,-3.0

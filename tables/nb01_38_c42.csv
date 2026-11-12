@@ -1,0 +1,57 @@
+Unnamed: 0,Region,H,model,RMSE,Skill_pct,Skill_SP_pct,R2
+0,Islamabad,1,CLIPER,57.402,0.0,0.834,0.958
+1,Islamabad,1,Climatology,139.027,-142.199,-140.179,0.754
+2,Islamabad,1,DLinear,57.501,-0.173,0.663,0.958
+3,Islamabad,1,LSTM,55.822,2.752,3.563,0.96
+4,Islamabad,1,PatchTST,55.819,2.757,3.568,0.96
+5,Islamabad,1,Seasonal persistence,184.432,-221.3,-218.621,0.566
+6,Islamabad,1,Smart persistence,57.885,-0.841,0.0,0.957
+7,Islamabad,24,CLIPER,135.284,0.0,22.527,0.767
+8,Islamabad,24,Climatology,139.027,-2.767,20.384,0.754
+9,Islamabad,24,DLinear,131.741,2.619,24.556,0.779
+10,Islamabad,24,LSTM,132.401,2.131,24.178,0.776
+11,Islamabad,24,PatchTST,132.841,1.805,23.926,0.775
+12,Islamabad,24,Seasonal persistence,184.432,-36.33,-5.618,0.566
+13,Islamabad,24,Smart persistence,174.622,-29.078,0.0,0.611
+14,Karachi,1,CLIPER,52.834,0.0,3.49,0.965
+15,Karachi,1,Climatology,102.387,-93.789,-87.026,0.869
+16,Karachi,1,DLinear,53.787,-1.804,1.749,0.964
+17,Karachi,1,LSTM,53.174,-0.644,2.869,0.965
+18,Karachi,1,PatchTST,53.166,-0.627,2.884,0.965
+19,Karachi,1,Seasonal persistence,124.642,-135.912,-127.679,0.806
+20,Karachi,1,Smart persistence,54.745,-3.616,0.0,0.963
+21,Karachi,24,CLIPER,96.306,0.0,19.203,0.884
+22,Karachi,24,Climatology,102.387,-6.315,14.101,0.869
+23,Karachi,24,DLinear,95.661,0.67,19.744,0.886
+24,Karachi,24,LSTM,95.971,0.347,19.483,0.885
+25,Karachi,24,PatchTST,96.705,-0.415,18.868,0.883
+26,Karachi,24,Seasonal persistence,124.642,-29.424,-4.571,0.806
+27,Karachi,24,Smart persistence,119.194,-23.766,0.0,0.822
+28,Lahore,1,CLIPER,59.056,0.0,2.57,0.952
+29,Lahore,1,Climatology,113.608,-92.373,-87.43,0.822
+30,Lahore,1,DLinear,58.701,0.601,3.155,0.952
+31,Lahore,1,LSTM,57.166,3.201,5.688,0.955
+32,Lahore,1,PatchTST,57.576,2.505,5.011,0.954
+33,Lahore,1,Seasonal persistence,156.266,-164.608,-157.808,0.663
+34,Lahore,1,Smart persistence,60.614,-2.638,0.0,0.949
+35,Lahore,24,CLIPER,111.895,0.0,23.946,0.827
+36,Lahore,24,Climatology,113.608,-1.531,22.782,0.822
+37,Lahore,24,DLinear,110.422,1.316,24.947,0.832
+38,Lahore,24,LSTM,110.885,0.902,24.632,0.83
+39,Lahore,24,PatchTST,110.943,0.851,24.593,0.83
+40,Lahore,24,Seasonal persistence,156.266,-39.655,-6.213,0.663
+41,Lahore,24,Smart persistence,147.125,-31.485,0.0,0.701
+42,Multan,1,CLIPER,48.425,0.0,2.567,0.969
+43,Multan,1,Climatology,99.252,-104.961,-99.7,0.871
+44,Multan,1,DLinear,48.458,-0.069,2.5,0.969
+45,Multan,1,LSTM,48.211,0.441,2.996,0.97
+46,Multan,1,PatchTST,47.138,2.657,5.155,0.971
+47,Multan,1,Seasonal persistence,127.477,-163.247,-156.489,0.787
+48,Multan,1,Smart persistence,49.701,-2.635,0.0,0.968
+49,Multan,24,CLIPER,94.409,0.0,20.263,0.883
+50,Multan,24,Climatology,99.252,-5.13,16.173,0.871
+51,Multan,24,DLinear,92.638,1.876,21.759,0.887
+52,Multan,24,LSTM,92.953,1.542,21.493,0.887
+53,Multan,24,PatchTST,94.763,-0.375,19.965,0.882
+54,Multan,24,Seasonal persistence,127.477,-35.026,-7.665,0.787
+55,Multan,24,Smart persistence,118.402,-25.413,0.0,0.816

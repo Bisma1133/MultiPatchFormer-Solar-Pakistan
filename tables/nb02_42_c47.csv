@@ -1,0 +1,41 @@
+Unnamed: 0,Region,H,model,RMSE,Skill_pct,Skill_SP_pct,R2
+0,Islamabad,1,CLIPER,57.402,0.0,0.834,0.958
+1,Islamabad,1,Climatology,139.027,-142.199,-140.179,0.754
+2,Islamabad,1,MultiPatchFormer,56.552,1.481,2.303,0.959
+3,Islamabad,1,Seasonal persistence,184.432,-221.3,-218.621,0.566
+4,Islamabad,1,Smart persistence,57.885,-0.841,0.0,0.957
+5,Islamabad,24,CLIPER,135.284,0.0,22.527,0.767
+6,Islamabad,24,Climatology,139.027,-2.767,20.384,0.754
+7,Islamabad,24,MultiPatchFormer,133.199,1.541,23.721,0.774
+8,Islamabad,24,Seasonal persistence,184.432,-36.33,-5.618,0.566
+9,Islamabad,24,Smart persistence,174.622,-29.078,0.0,0.611
+10,Karachi,1,CLIPER,52.834,0.0,3.49,0.965
+11,Karachi,1,Climatology,102.387,-93.789,-87.026,0.869
+12,Karachi,1,MultiPatchFormer,53.597,-1.444,2.096,0.964
+13,Karachi,1,Seasonal persistence,124.642,-135.912,-127.679,0.806
+14,Karachi,1,Smart persistence,54.745,-3.616,0.0,0.963
+15,Karachi,24,CLIPER,96.306,0.0,19.203,0.884
+16,Karachi,24,Climatology,102.387,-6.315,14.101,0.869
+17,Karachi,24,MultiPatchFormer,97.825,-1.577,17.928,0.88
+18,Karachi,24,Seasonal persistence,124.642,-29.424,-4.571,0.806
+19,Karachi,24,Smart persistence,119.194,-23.766,0.0,0.822
+20,Lahore,1,CLIPER,59.056,0.0,2.57,0.952
+21,Lahore,1,Climatology,113.608,-92.373,-87.43,0.822
+22,Lahore,1,MultiPatchFormer,57.761,2.193,4.707,0.954
+23,Lahore,1,Seasonal persistence,156.266,-164.608,-157.808,0.663
+24,Lahore,1,Smart persistence,60.614,-2.638,0.0,0.949
+25,Lahore,24,CLIPER,111.895,0.0,23.946,0.827
+26,Lahore,24,Climatology,113.608,-1.531,22.782,0.822
+27,Lahore,24,MultiPatchFormer,112.447,-0.493,23.571,0.825
+28,Lahore,24,Seasonal persistence,156.266,-39.655,-6.213,0.663
+29,Lahore,24,Smart persistence,147.125,-31.485,0.0,0.701
+30,Multan,1,CLIPER,48.425,0.0,2.567,0.969
+31,Multan,1,Climatology,99.252,-104.961,-99.7,0.871
+32,Multan,1,MultiPatchFormer,47.888,1.109,3.647,0.97
+33,Multan,1,Seasonal persistence,127.477,-163.247,-156.489,0.787
+34,Multan,1,Smart persistence,49.701,-2.635,0.0,0.968
+35,Multan,24,CLIPER,94.409,0.0,20.263,0.883
+36,Multan,24,Climatology,99.252,-5.13,16.173,0.871
+37,Multan,24,MultiPatchFormer,95.733,-1.402,19.146,0.88
+38,Multan,24,Seasonal persistence,127.477,-35.026,-7.665,0.787
+39,Multan,24,Smart persistence,118.402,-25.413,0.0,0.816

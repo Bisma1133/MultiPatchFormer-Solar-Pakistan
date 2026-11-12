@@ -1,0 +1,13 @@
+model,Region,label,CLIPER,DLinear,LSTM,PatchTST,Smart persistence
+0,Islamabad,Clear (k≥0.8),0.0,8.2,13.8,7.1,-59.1
+1,Islamabad,Cloudy (k<0.5),0.0,1.4,-1.5,1.2,-2.8
+2,Islamabad,Partly cloudy (0.5–0.8),0.0,-1.4,-3.0,-2.1,-38.6
+3,Karachi,Clear (k≥0.8),0.0,-1.0,-2.3,-2.9,-50.8
+4,Karachi,Cloudy (k<0.5),0.0,1.3,3.4,1.7,3.3
+5,Karachi,Partly cloudy (0.5–0.8),0.0,1.6,-0.9,0.1,-30.9
+6,Lahore,Clear (k≥0.8),0.0,5.5,4.0,4.5,-54.5
+7,Lahore,Cloudy (k<0.5),0.0,0.3,1.2,-0.3,-4.7
+8,Lahore,Partly cloudy (0.5–0.8),0.0,-0.9,-1.5,-0.1,-35.7
+9,Multan,Clear (k≥0.8),0.0,2.7,-0.0,-0.3,-71.9
+10,Multan,Cloudy (k<0.5),0.0,2.7,3.8,1.8,7.8
+11,Multan,Partly cloudy (0.5–0.8),0.0,0.3,0.3,-2.0,-20.3

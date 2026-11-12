@@ -1,0 +1,13 @@
+model,Region,label,forecasts,CLIPER,MultiPatchFormer,Smart persistence
+0,Islamabad,Clear (k≥0.8),3103,35.5,33.4,35.74
+1,Islamabad,Cloudy (k<0.5),505,80.5,81.06,73.5
+2,Islamabad,Partly cloudy (0.5–0.8),713,99.47,97.83,104.5
+3,Karachi,Clear (k≥0.8),3190,34.88,34.98,36.71
+4,Karachi,Cloudy (k<0.5),278,91.17,91.25,85.22
+5,Karachi,Partly cloudy (0.5–0.8),517,97.68,98.71,104.32
+6,Lahore,Clear (k≥0.8),3002,36.35,35.56,37.34
+7,Lahore,Cloudy (k<0.5),335,89.18,87.38,84.17
+8,Lahore,Partly cloudy (0.5–0.8),963,93.2,89.67,97.95
+9,Multan,Clear (k≥0.8),3355,31.28,30.69,32.52
+10,Multan,Cloudy (k<0.5),299,79.51,77.54,72.43
+11,Multan,Partly cloudy (0.5–0.8),618,88.54,86.62,93.78
