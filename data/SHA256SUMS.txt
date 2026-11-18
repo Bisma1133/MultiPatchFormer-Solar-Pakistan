@@ -1,0 +1,13 @@
+# SHA-256 checksums of the data files used in this study (pvlib 0.16.1 reproduces the derived files exactly)
+# Files on Zenodo (doi:10.5281/zenodo.24181080); MD5 as shown on Zenodo in brackets
+f1ca123935b9e518dbbdd8753c680ba9e31671b784832225888310dab3ba0796  Solcast_4cities_2020_2024.csv   (MD5 eeaf2dcd1a8540cdd94480348538790d)
+05ebeac86a9b845c4e54f1d8d7638bd0d40401a5f8b9c5b689b2521b07efe163  Solcast_4cities_2017_2024.csv   (MD5 c4d7d41f0df378471eff40fdc69d5db2)
+# Derived with scripts/make_clearsky.py (issue-time clear-sky GHI); these are the files the notebooks and scripts read
+32d2a468b703161eb99f57c4038a8b979afb2e9b3fcc8e77158ab2276a6aa579  Solcast_4cities_2020_2024_csmodel.csv
+6ca88e86938505ed4148bee236458239db1f54cc93641605edeb2e77a31c5f2f  Solcast_4cities_2017_2024_csmodel.csv
+# Raw Solcast downloads used to build the combined files (scripts/make_dataset.py)
+c22103531725a63f29038f23c28339375555bfdda547d8626b2c7bb4d9056452  Islamabad_csv_33.699509_73.03629_fixed_23_180_PT60M.xlsx
+f8815594d8ef8473b1380261a960c307c48f18f4a585bc3719350161f979015e  Karachi_csv_24.860734_67.001136_fixed_23_180_PT60M.csv
+55a86b66c440423523c4ff325131107d409134e0ec30caaf787b9820ec55ee65  Lahore_csv_31.52037_74.358747_fixed_23_180_PT60M.csv
+e51bdd176fc3552b70523a838e965c8e6ac27bd81cb8bc9fadbc30e57f0d9912  Multan_csv_30.186356_71.488581_fixed_23_180_PT60M.csv
+ce731b80e0df6a23db6956c28a3e0951acf76ab1625b32e4a5117edd09bece19  earlier_merged_table.csv (second download, 30 Nov-31 Dec 2024 for Lahore and Multan)
