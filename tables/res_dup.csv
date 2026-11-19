@@ -1,0 +1,7 @@
+region_A,region_B,identical_hours_pct,correlation,duplicate
+Islamabad,Karachi,45.8419,0.8876,False
+Islamabad,Lahore,47.7661,0.9249,False
+Islamabad,Multan,47.2892,0.9227,False
+Karachi,Lahore,45.2428,0.8985,False
+Karachi,Multan,45.9534,0.9302,False
+Lahore,Multan,46.7826,0.9359,False

@@ -1,0 +1,5 @@
+Region,period_local,missing_hours,long_gap_hours_filled_not_scored,invalid_hours_after_fill,negative_ghi,closure_median_ratio
+Islamabad,2020-01-01 00:00 – 2025-01-01 00:00,24,21,0,0,1.0
+Karachi,2020-01-01 00:00 – 2025-01-01 00:00,787,168,619,0,1.0
+Lahore,2020-01-01 00:00 – 2025-01-01 00:00,24,21,0,0,1.0
+Multan,2020-01-01 00:00 – 2025-01-01 00:00,24,21,0,0,1.0

@@ -1,0 +1,97 @@
+Region,H,comparison,DM,p_value,result,pair,q
+Islamabad,1,PatchTST vs DLinear,-6.0816,0.0,better (p<0.05),DLinear vs PatchTST,0.0
+Islamabad,1,PatchTST vs LSTM,-0.6587,0.5101,better (not significant),LSTM vs PatchTST,0.689712676056338
+Islamabad,3,PatchTST vs DLinear,-5.6952,0.0,better (p<0.05),DLinear vs PatchTST,0.0
+Islamabad,3,PatchTST vs LSTM,-0.7742,0.4389,better (not significant),LSTM vs PatchTST,0.6106434782608695
+Islamabad,6,PatchTST vs DLinear,-5.022,0.0,better (p<0.05),DLinear vs PatchTST,0.0
+Islamabad,6,PatchTST vs LSTM,0.6703,0.5027,worse (not significant),LSTM vs PatchTST,0.689417142857143
+Islamabad,24,PatchTST vs DLinear,1.3413,0.1807,worse (not significant),DLinear vs PatchTST,0.3614
+Islamabad,24,PatchTST vs LSTM,0.3134,0.7542,worse (not significant),LSTM vs PatchTST,0.8619428571428571
+Islamabad,96,PatchTST vs DLinear,0.4275,0.6692,worse (not significant),DLinear vs PatchTST,0.80304
+Islamabad,96,PatchTST vs LSTM,-0.0429,0.9658,better (not significant),LSTM vs PatchTST,0.9759663157894738
+Islamabad,168,PatchTST vs DLinear,0.9352,0.3503,worse (not significant),DLinear vs PatchTST,0.52545
+Islamabad,168,PatchTST vs LSTM,0.5667,0.5713,worse (not significant),LSTM vs PatchTST,0.7512986301369864
+Islamabad,336,PatchTST vs DLinear,1.2846,0.1998,worse (not significant),DLinear vs PatchTST,0.3914448979591837
+Islamabad,336,PatchTST vs LSTM,1.5477,0.1226,worse (not significant),LSTM vs PatchTST,0.28022857142857144
+Islamabad,672,PatchTST vs DLinear,1.0151,0.3109,worse (not significant),DLinear vs PatchTST,0.523621052631579
+Islamabad,672,PatchTST vs LSTM,0.2525,0.8008,worse (not significant),LSTM vs PatchTST,0.9044329411764707
+Karachi,1,PatchTST vs DLinear,-2.6384,0.0084,better (p<0.05),DLinear vs PatchTST,0.0504
+Karachi,1,PatchTST vs LSTM,-1.0245,0.3056,better (not significant),LSTM vs PatchTST,0.523621052631579
+Karachi,3,PatchTST vs DLinear,-2.2096,0.0272,better (p<0.05),DLinear vs PatchTST,0.11869090909090908
+Karachi,3,PatchTST vs LSTM,0.9407,0.3469,worse (not significant),LSTM vs PatchTST,0.52545
+Karachi,6,PatchTST vs DLinear,-1.4364,0.1509,better (not significant),DLinear vs PatchTST,0.31492173913043475
+Karachi,6,PatchTST vs LSTM,2.4962,0.0126,worse (p<0.05),LSTM vs PatchTST,0.06288
+Karachi,24,PatchTST vs DLinear,2.7843,0.0057,worse (p<0.05),DLinear vs PatchTST,0.04209230769230769
+Karachi,24,PatchTST vs LSTM,1.7134,0.0876,worse (not significant),LSTM vs PatchTST,0.22728648648648647
+Karachi,96,PatchTST vs DLinear,1.6125,0.1078,worse (not significant),DLinear vs PatchTST,0.2554536585365854
+Karachi,96,PatchTST vs LSTM,0.1732,0.8626,worse (not significant),LSTM vs PatchTST,0.9304449438202248
+Karachi,168,PatchTST vs DLinear,0.8516,0.3951,worse (not significant),DLinear vs PatchTST,0.5746909090909091
+Karachi,168,PatchTST vs LSTM,-0.3481,0.728,better (not significant),LSTM vs PatchTST,0.8522926829268294
+Karachi,336,PatchTST vs DLinear,-0.0105,0.9916,better (not significant),DLinear vs PatchTST,0.9916
+Karachi,336,PatchTST vs LSTM,0.1532,0.8784,worse (not significant),LSTM vs PatchTST,0.9369599999999999
+Karachi,672,PatchTST vs DLinear,-0.5108,0.6099,better (not significant),DLinear vs PatchTST,0.7645538461538461
+Karachi,672,PatchTST vs LSTM,2.0295,0.0433,worse (p<0.05),LSTM vs PatchTST,0.15257142857142858
+Lahore,1,PatchTST vs DLinear,-5.1211,0.0,better (p<0.05),DLinear vs PatchTST,0.0
+Lahore,1,PatchTST vs LSTM,-0.0495,0.9605,better (not significant),LSTM vs PatchTST,0.9759663157894738
+Lahore,3,PatchTST vs DLinear,-2.1013,0.0357,better (p<0.05),DLinear vs PatchTST,0.141312
+Lahore,3,PatchTST vs LSTM,0.9655,0.3343,worse (not significant),LSTM vs PatchTST,0.52545
+Lahore,6,PatchTST vs DLinear,-2.8276,0.0047,better (p<0.05),DLinear vs PatchTST,0.0376
+Lahore,6,PatchTST vs LSTM,0.0516,0.9588,worse (not significant),LSTM vs PatchTST,0.9759663157894738
+Lahore,24,PatchTST vs DLinear,-0.9521,0.3417,better (not significant),DLinear vs PatchTST,0.52545
+Lahore,24,PatchTST vs LSTM,0.1234,0.9019,worse (not significant),LSTM vs PatchTST,0.9514549450549451
+Lahore,96,PatchTST vs DLinear,1.445,0.1493,worse (not significant),DLinear vs PatchTST,0.31492173913043475
+Lahore,96,PatchTST vs LSTM,2.0168,0.0445,worse (p<0.05),LSTM vs PatchTST,0.15257142857142858
+Lahore,168,PatchTST vs DLinear,1.0352,0.3013,worse (not significant),DLinear vs PatchTST,0.523621052631579
+Lahore,168,PatchTST vs LSTM,1.7988,0.0729,worse (not significant),LSTM vs PatchTST,0.19995428571428572
+Lahore,336,PatchTST vs DLinear,1.6746,0.0949,worse (not significant),DLinear vs PatchTST,0.23974736842105263
+Lahore,336,PatchTST vs LSTM,1.9511,0.0519,worse (not significant),LSTM vs PatchTST,0.17056
+Lahore,672,PatchTST vs DLinear,1.2167,0.2246,worse (not significant),DLinear vs PatchTST,0.43123199999999995
+Lahore,672,PatchTST vs LSTM,0.9508,0.3424,worse (not significant),LSTM vs PatchTST,0.52545
+Multan,1,PatchTST vs DLinear,-5.9939,0.0,better (p<0.05),DLinear vs PatchTST,0.0
+Multan,1,PatchTST vs LSTM,-3.7171,0.0002,better (p<0.05),LSTM vs PatchTST,0.0019200000000000003
+Multan,3,PatchTST vs DLinear,-2.6759,0.0075,better (p<0.05),DLinear vs PatchTST,0.048
+Multan,3,PatchTST vs LSTM,-2.5129,0.012,better (p<0.05),LSTM vs PatchTST,0.06288
+Multan,6,PatchTST vs DLinear,-2.6891,0.0072,better (p<0.05),DLinear vs PatchTST,0.048
+Multan,6,PatchTST vs LSTM,-1.1236,0.2612,better (not significant),LSTM vs PatchTST,0.47311698113207545
+Multan,24,PatchTST vs DLinear,1.915,0.0563,worse (not significant),DLinear vs PatchTST,0.1743483870967742
+Multan,24,PatchTST vs LSTM,2.039,0.0422,worse (p<0.05),LSTM vs PatchTST,0.15257142857142858
+Multan,96,PatchTST vs DLinear,1.8728,0.0619,worse (not significant),DLinear vs PatchTST,0.18381176470588237
+Multan,96,PatchTST vs LSTM,1.6063,0.1091,worse (not significant),LSTM vs PatchTST,0.2554536585365854
+Multan,168,PatchTST vs DLinear,1.4059,0.1606,worse (not significant),DLinear vs PatchTST,0.3280340425531915
+Multan,168,PatchTST vs LSTM,1.8596,0.0638,worse (not significant),LSTM vs PatchTST,0.18381176470588237
+Multan,336,PatchTST vs DLinear,1.7688,0.0778,worse (not significant),DLinear vs PatchTST,0.20746666666666666
+Multan,336,PatchTST vs LSTM,1.1318,0.2585,worse (not significant),LSTM vs PatchTST,0.47311698113207545
+Multan,672,PatchTST vs DLinear,0.4035,0.6868,worse (not significant),DLinear vs PatchTST,0.8139851851851851
+Multan,672,PatchTST vs LSTM,1.4714,0.1422,worse (not significant),LSTM vs PatchTST,0.31025454545454545
+Islamabad,1,DLinear vs LSTM,4.4707,0.0,worse (p<0.05),DLinear vs LSTM,0.0
+Islamabad,3,DLinear vs LSTM,3.7059,0.0002,worse (p<0.05),DLinear vs LSTM,0.0019200000000000003
+Islamabad,6,DLinear vs LSTM,5.2914,0.0,worse (p<0.05),DLinear vs LSTM,0.0
+Islamabad,24,DLinear vs LSTM,-0.5762,0.5648,better (not significant),DLinear vs LSTM,0.7512986301369864
+Islamabad,96,DLinear vs LSTM,-0.5263,0.599,better (not significant),DLinear vs LSTM,0.7645538461538461
+Islamabad,168,DLinear vs LSTM,-0.5011,0.6166,better (not significant),DLinear vs LSTM,0.7645538461538461
+Islamabad,336,DLinear vs LSTM,-0.2206,0.8255,better (not significant),DLinear vs LSTM,0.914648275862069
+Islamabad,672,DLinear vs LSTM,-0.8049,0.4215,better (not significant),DLinear vs LSTM,0.6031058823529412
+Karachi,1,DLinear vs LSTM,1.6111,0.1072,worse (not significant),DLinear vs LSTM,0.2554536585365854
+Karachi,3,DLinear vs LSTM,2.4812,0.0131,worse (p<0.05),DLinear vs LSTM,0.06288
+Karachi,6,DLinear vs LSTM,3.2263,0.0013,worse (p<0.05),DLinear vs LSTM,0.011345454545454546
+Karachi,24,DLinear vs LSTM,-1.1574,0.248,better (not significant),DLinear vs LSTM,0.4668235294117647
+Karachi,96,DLinear vs LSTM,-2.1264,0.0342,better (p<0.05),DLinear vs LSTM,0.141312
+Karachi,168,DLinear vs LSTM,-2.097,0.0368,better (p<0.05),DLinear vs LSTM,0.141312
+Karachi,336,DLinear vs LSTM,0.1886,0.8505,worse (not significant),DLinear vs LSTM,0.9278181818181818
+Karachi,672,DLinear vs LSTM,1.8515,0.0651,worse (not significant),DLinear vs LSTM,0.18381176470588237
+Lahore,1,DLinear vs LSTM,3.7229,0.0002,worse (p<0.05),DLinear vs LSTM,0.0019200000000000003
+Lahore,3,DLinear vs LSTM,2.2348,0.0255,worse (p<0.05),DLinear vs LSTM,0.11657142857142858
+Lahore,6,DLinear vs LSTM,1.9333,0.0533,worse (not significant),DLinear vs LSTM,0.17056
+Lahore,24,DLinear vs LSTM,0.7948,0.4272,worse (not significant),DLinear vs LSTM,0.6031058823529412
+Lahore,96,DLinear vs LSTM,0.9123,0.3622,worse (not significant),DLinear vs LSTM,0.5349415384615385
+Lahore,168,DLinear vs LSTM,1.5008,0.1343,worse (not significant),DLinear vs LSTM,0.2998325581395349
+Lahore,336,DLinear vs LSTM,0.4392,0.6608,worse (not significant),DLinear vs LSTM,0.8029974683544304
+Lahore,672,DLinear vs LSTM,-0.5305,0.5961,better (not significant),DLinear vs LSTM,0.7645538461538461
+Multan,1,DLinear vs LSTM,2.5132,0.012,worse (p<0.05),DLinear vs LSTM,0.06288
+Multan,3,DLinear vs LSTM,-0.0827,0.9341,better (not significant),DLinear vs LSTM,0.9747130434782609
+Multan,6,DLinear vs LSTM,1.0165,0.3095,worse (not significant),DLinear vs LSTM,0.523621052631579
+Multan,24,DLinear vs LSTM,0.2163,0.8289,worse (not significant),DLinear vs LSTM,0.914648275862069
+Multan,96,DLinear vs LSTM,0.3282,0.743,worse (not significant),DLinear vs LSTM,0.8593734939759037
+Multan,168,DLinear vs LSTM,0.9899,0.3229,worse (not significant),DLinear vs LSTM,0.52545
+Multan,336,DLinear vs LSTM,-0.9571,0.3392,better (not significant),DLinear vs LSTM,0.52545
+Multan,672,DLinear vs LSTM,0.4946,0.6212,worse (not significant),DLinear vs LSTM,0.7645538461538461

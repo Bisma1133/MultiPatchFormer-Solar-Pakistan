@@ -1,0 +1,5 @@
+model,device,L,H,params,ms_per_forecast_median,mean_train_time_s,max_train_time_s,mean_best_epoch
+MultiPatchFormer,cuda,24,1,507521,1.464,357.573,1609.62,8.167
+MultiPatchFormer,cpu,24,1,507521,2.964,357.573,1609.62,8.167
+MultiPatchFormer,cuda,672,672,3663264,2.101,357.573,1609.62,8.167
+MultiPatchFormer,cpu,672,672,3663264,12.47,357.573,1609.62,8.167

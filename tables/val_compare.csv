@@ -1,0 +1,9 @@
+model,H,val_original,val_regenerated,diff
+MultiPatchFormer,1,54.95,54.89,-0.06
+MultiPatchFormer,6,92.53,92.22,-0.31
+PatchTST,1,54.46,54.47,0.01
+PatchTST,6,92.0,91.94,-0.06
+DLinear,6,92.73,93.11,0.38
+DLinear,24,114.83,114.84,0.01
+LSTM,1,54.36,54.36,0.0
+LSTM,6,91.09,91.72,0.63

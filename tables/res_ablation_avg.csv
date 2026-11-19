@@ -1,0 +1,9 @@
+H,variant,params,RMSE,Skill_pct,dRMSE_vs_full_pct
+6,full,516498.0,93.63,2.562,0.0
+6,no_channel_attention,384018.0,93.606,2.622,-0.054
+6,no_multiscale,519186.0,94.207,2.002,0.584
+6,no_multistep_decoder,516486.0,93.803,2.402,0.17
+24,full,747120.0,118.955,1.227,0.0
+24,no_channel_attention,614640.0,118.464,1.682,-0.456
+24,no_multiscale,749808.0,119.147,1.092,0.14
+24,no_multistep_decoder,746904.0,118.433,1.705,-0.479
