@@ -1,0 +1,209 @@
+H,clear_sky,model,pooled_RMSE,skill_vs_CLIPER_pct
+1,Solcast,Smart persistence,55.9165,-2.3504
+1,Solcast,Climatology,114.9134,-110.3392
+1,Solcast,CLIPER,54.6324,0.0
+1,Solcast,CLIPER+ridge,54.3073,0.5951
+1,Solcast,MultiPatchFormer,55.0261,-0.7206
+1,Solcast,PatchTST,53.3943,2.2663
+1,Solcast,DLinear,54.5604,0.1319
+1,Solcast,LSTM,53.5679,1.9486
+1,Solcast,Seasonal persistence,150.7011,-175.8456
+1,Ineichen-clim,Smart persistence,78.1229,-2.6152
+1,Ineichen-clim,Climatology,135.1484,-77.5189
+1,Ineichen-clim,CLIPER,76.1318,0.0
+1,Ineichen-clim,CLIPER+ridge,77.542,-1.8523
+1,Ineichen-clim,MultiPatchFormer,75.1816,1.2482
+1,Ineichen-clim,PatchTST,75.5914,0.7098
+1,Ineichen-clim,DLinear,77.9534,-2.3927
+1,Ineichen-clim,LSTM,76.7334,-0.7902
+1,Ineichen-clim,Seasonal persistence,150.7011,-97.9476
+1,Ineichen-cal,Smart persistence,66.6205,1.0109
+1,Ineichen-cal,Climatology,128.9408,-91.5887
+1,Ineichen-cal,CLIPER,67.3008,0.0
+1,Ineichen-cal,CLIPER+ridge,65.6161,2.5034
+1,Ineichen-cal,MultiPatchFormer,66.8128,0.7252
+1,Ineichen-cal,PatchTST,65.224,3.0859
+1,Ineichen-cal,DLinear,66.6044,1.0348
+1,Ineichen-cal,LSTM,66.0808,1.8128
+1,Ineichen-cal,Seasonal persistence,150.7011,-123.9216
+1,Ineichen-persist,Smart persistence,61.6441,-1.4655
+1,Ineichen-persist,Climatology,119.1218,-96.0732
+1,Ineichen-persist,CLIPER,60.7537,0.0
+1,Ineichen-persist,CLIPER+ridge,60.8094,-0.0916
+1,Ineichen-persist,MultiPatchFormer,61.3131,-0.9207
+1,Ineichen-persist,PatchTST,59.8164,1.5429
+1,Ineichen-persist,DLinear,61.0552,-0.4963
+1,Ineichen-persist,LSTM,59.7912,1.5844
+1,Ineichen-persist,Seasonal persistence,150.7011,-148.0525
+3,Solcast,Smart persistence,81.6936,-6.5469
+3,Solcast,Climatology,114.9134,-49.8731
+3,Solcast,CLIPER,76.6738,0.0
+3,Solcast,CLIPER+ridge,76.2086,0.6068
+3,Solcast,Seasonal persistence,150.7011,-96.5483
+3,Ineichen-clim,Smart persistence,98.9963,-4.8798
+3,Ineichen-clim,Climatology,135.1484,-43.1805
+3,Ineichen-clim,CLIPER,94.3902,0.0
+3,Ineichen-clim,CLIPER+ridge,97.5144,-3.3098
+3,Ineichen-clim,Seasonal persistence,150.7011,-59.6575
+3,Ineichen-cal,Smart persistence,89.6655,-1.555
+3,Ineichen-cal,Climatology,128.9408,-46.0381
+3,Ineichen-cal,CLIPER,88.2925,0.0
+3,Ineichen-cal,CLIPER+ridge,85.7314,2.9007
+3,Ineichen-cal,Seasonal persistence,150.7011,-70.6838
+3,Ineichen-persist,Smart persistence,86.8685,-5.0346
+3,Ineichen-persist,Climatology,119.9735,-45.0626
+3,Ineichen-persist,CLIPER,82.7046,0.0
+3,Ineichen-persist,CLIPER+ridge,83.0678,-0.4392
+3,Ineichen-persist,Seasonal persistence,150.7011,-82.216
+6,Solcast,Smart persistence,103.0644,-12.6473
+6,Solcast,Climatology,114.9134,-25.598
+6,Solcast,CLIPER,91.493,0.0
+6,Solcast,CLIPER+ridge,90.3252,1.2765
+6,Solcast,MultiPatchFormer,91.2281,0.2895
+6,Solcast,PatchTST,90.2823,1.3233
+6,Solcast,DLinear,90.5456,1.0355
+6,Solcast,LSTM,89.6345,2.0313
+6,Solcast,Seasonal persistence,150.7011,-64.7132
+6,Ineichen-clim,Smart persistence,118.8193,-9.0705
+6,Ineichen-clim,Climatology,135.1484,-24.0598
+6,Ineichen-clim,CLIPER,108.9381,0.0
+6,Ineichen-clim,CLIPER+ridge,111.1333,-2.015
+6,Ineichen-clim,MultiPatchFormer,112.9834,-3.7134
+6,Ineichen-clim,PatchTST,112.4657,-3.2381
+6,Ineichen-clim,DLinear,111.4194,-2.2777
+6,Ineichen-clim,LSTM,110.9467,-1.8438
+6,Ineichen-clim,Seasonal persistence,150.7011,-38.3364
+6,Ineichen-cal,Smart persistence,110.4028,-6.5847
+6,Ineichen-cal,Climatology,128.9408,-24.4815
+6,Ineichen-cal,CLIPER,103.5823,0.0
+6,Ineichen-cal,CLIPER+ridge,99.6288,3.8167
+6,Ineichen-cal,MultiPatchFormer,100.6998,2.7828
+6,Ineichen-cal,PatchTST,99.8929,3.5618
+6,Ineichen-cal,DLinear,100.4687,3.0059
+6,Ineichen-cal,LSTM,99.8973,3.5576
+6,Ineichen-cal,Seasonal persistence,150.7011,-45.4893
+6,Ineichen-persist,Smart persistence,109.025,-10.5736
+6,Ineichen-persist,Climatology,121.1247,-22.845
+6,Ineichen-persist,CLIPER,98.5996,0.0
+6,Ineichen-persist,CLIPER+ridge,98.4523,0.1493
+6,Ineichen-persist,MultiPatchFormer,99.0865,-0.4939
+6,Ineichen-persist,PatchTST,98.1048,0.5018
+6,Ineichen-persist,DLinear,98.087,0.5199
+6,Ineichen-persist,LSTM,97.2714,1.347
+6,Ineichen-persist,Seasonal persistence,150.7011,-52.8416
+24,Solcast,Smart persistence,142.2112,-28.1173
+24,Solcast,Climatology,114.9134,-3.5249
+24,Solcast,CLIPER,111.0007,0.0
+24,Solcast,CLIPER+ridge,109.5586,1.2992
+24,Solcast,MultiPatchFormer,110.2584,0.6688
+24,Solcast,PatchTST,109.8986,0.9929
+24,Solcast,DLinear,109.0029,1.7998
+24,Solcast,LSTM,109.7516,1.1254
+24,Solcast,Seasonal persistence,150.7011,-35.7658
+24,Ineichen-clim,Smart persistence,162.504,-24.4239
+24,Ineichen-clim,Climatology,135.1484,-3.4786
+24,Ineichen-clim,CLIPER,130.6052,0.0
+24,Ineichen-clim,CLIPER+ridge,130.9876,-0.2928
+24,Ineichen-clim,MultiPatchFormer,132.1265,-1.1649
+24,Ineichen-clim,PatchTST,130.7022,-0.0743
+24,Ineichen-clim,DLinear,129.1773,1.0933
+24,Ineichen-clim,LSTM,132.4138,-1.3848
+24,Ineichen-clim,Seasonal persistence,150.7011,-15.3868
+24,Ineichen-cal,Smart persistence,150.0936,-20.7588
+24,Ineichen-cal,Climatology,128.9408,-3.7402
+24,Ineichen-cal,CLIPER,124.2921,0.0
+24,Ineichen-cal,CLIPER+ridge,121.5464,2.209
+24,Ineichen-cal,MultiPatchFormer,122.4895,1.4502
+24,Ineichen-cal,PatchTST,122.0094,1.8366
+24,Ineichen-cal,DLinear,120.6859,2.9013
+24,Ineichen-cal,LSTM,122.2195,1.6675
+24,Ineichen-cal,Seasonal persistence,150.7011,-21.2476
+24,Ineichen-persist,Smart persistence,151.0699,-24.6003
+24,Ineichen-persist,Climatology,123.7199,-2.0424
+24,Ineichen-persist,CLIPER,121.2437,0.0
+24,Ineichen-persist,CLIPER+ridge,120.8343,0.3377
+24,Ineichen-persist,MultiPatchFormer,120.92,0.2669
+24,Ineichen-persist,PatchTST,120.664,0.4781
+24,Ineichen-persist,DLinear,119.7733,1.2128
+24,Ineichen-persist,LSTM,120.3922,0.7023
+24,Ineichen-persist,Seasonal persistence,150.7011,-24.2961
+96,Solcast,Smart persistence,156.6481,-37.6917
+96,Solcast,Climatology,114.8992,-0.995
+96,Solcast,CLIPER,113.7672,0.0
+96,Solcast,CLIPER+ridge,113.3582,0.3596
+96,Solcast,Seasonal persistence,169.9199,-49.3575
+96,Ineichen-clim,Smart persistence,178.8045,-33.477
+96,Ineichen-clim,Climatology,135.2003,-0.9265
+96,Ineichen-clim,CLIPER,133.9591,0.0
+96,Ineichen-clim,CLIPER+ridge,135.4647,-1.1239
+96,Ineichen-clim,Seasonal persistence,169.9199,-26.8446
+96,Ineichen-cal,Smart persistence,165.9786,-29.8777
+96,Ineichen-cal,Climatology,129.0552,-0.9853
+96,Ineichen-cal,CLIPER,127.796,0.0
+96,Ineichen-cal,CLIPER+ridge,126.9868,0.6333
+96,Ineichen-cal,Seasonal persistence,169.9199,-32.9618
+96,Ineichen-persist,Smart persistence,170.8876,-32.0376
+96,Ineichen-persist,Climatology,129.5176,-0.0728
+96,Ineichen-persist,CLIPER,129.4234,0.0
+96,Ineichen-persist,CLIPER+ridge,129.8171,-0.3042
+96,Ineichen-persist,Seasonal persistence,169.9199,-31.2899
+168,Solcast,Smart persistence,160.6274,-40.5468
+168,Solcast,Climatology,114.9452,-0.5756
+168,Solcast,CLIPER,114.2874,0.0
+168,Solcast,CLIPER+ridge,113.9679,0.2796
+168,Solcast,Seasonal persistence,175.3987,-53.4716
+168,Ineichen-clim,Smart persistence,183.2984,-36.2298
+168,Ineichen-clim,Climatology,135.239,-0.5115
+168,Ineichen-clim,CLIPER,134.5508,0.0
+168,Ineichen-clim,CLIPER+ridge,136.121,-1.1669
+168,Ineichen-clim,Seasonal persistence,175.3987,-30.3587
+168,Ineichen-cal,Smart persistence,170.3723,-32.6219
+168,Ineichen-cal,Climatology,129.1538,-0.5364
+168,Ineichen-cal,CLIPER,128.4647,0.0
+168,Ineichen-cal,CLIPER+ridge,127.861,0.4699
+168,Ineichen-cal,Seasonal persistence,175.3987,-36.5346
+168,Ineichen-persist,Smart persistence,176.4247,-34.1793
+168,Ineichen-persist,Climatology,131.3634,0.0919
+168,Ineichen-persist,CLIPER,131.4843,0.0
+168,Ineichen-persist,CLIPER+ridge,131.883,-0.3032
+168,Ineichen-persist,Seasonal persistence,175.3987,-33.399
+336,Solcast,Smart persistence,163.9591,-42.5898
+336,Solcast,Climatology,115.3663,-0.3302
+336,Solcast,CLIPER,114.9866,0.0
+336,Solcast,CLIPER+ridge,114.7524,0.2036
+336,Solcast,Seasonal persistence,180.5653,-57.0317
+336,Ineichen-clim,Smart persistence,187.3333,-38.3956
+336,Ineichen-clim,Climatology,135.6921,-0.2448
+336,Ineichen-clim,CLIPER,135.3608,0.0
+336,Ineichen-clim,CLIPER+ridge,137.0361,-1.2377
+336,Ineichen-clim,Seasonal persistence,180.5653,-33.3956
+336,Ineichen-cal,Smart persistence,174.2589,-34.7676
+336,Ineichen-cal,Climatology,129.6384,-0.2591
+336,Ineichen-cal,CLIPER,129.3033,0.0
+336,Ineichen-cal,CLIPER+ridge,128.8423,0.3566
+336,Ineichen-cal,Seasonal persistence,180.5653,-39.6447
+336,Ineichen-persist,Smart persistence,181.341,-35.6645
+336,Ineichen-persist,Climatology,133.3947,0.2051
+336,Ineichen-persist,CLIPER,133.6688,0.0
+336,Ineichen-persist,CLIPER+ridge,134.0489,-0.2844
+336,Ineichen-persist,Seasonal persistence,180.5653,-35.0841
+672,Solcast,Smart persistence,169.245,-45.5777
+672,Solcast,Climatology,116.4855,-0.1961
+672,Solcast,CLIPER,116.2575,0.0
+672,Solcast,CLIPER+ridge,116.1216,0.1169
+672,Solcast,Seasonal persistence,187.9189,-61.6402
+672,Ineichen-clim,Smart persistence,193.0678,-40.9553
+672,Ineichen-clim,Climatology,137.1373,-0.1215
+672,Ineichen-clim,CLIPER,136.9709,0.0
+672,Ineichen-clim,CLIPER+ridge,138.6862,-1.2523
+672,Ineichen-clim,Seasonal persistence,187.9189,-37.1962
+672,Ineichen-cal,Smart persistence,179.8019,-37.4625
+672,Ineichen-cal,Climatology,130.9559,-0.1187
+672,Ineichen-cal,CLIPER,130.8007,0.0
+672,Ineichen-cal,CLIPER+ridge,130.4734,0.2502
+672,Ineichen-cal,Seasonal persistence,187.9189,-43.6682
+672,Ineichen-persist,Smart persistence,187.2029,-38.2357
+672,Ineichen-persist,Climatology,135.1061,0.234
+672,Ineichen-persist,CLIPER,135.423,0.0
+672,Ineichen-persist,CLIPER+ridge,135.7556,-0.2456
+672,Ineichen-persist,Seasonal persistence,187.9189,-38.7644

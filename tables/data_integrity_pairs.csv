@@ -1,0 +1,7 @@
+site_a,site_b,daytime_hours,identical_daytime_pct,daytime_corr
+Islamabad,Karachi,20557,0.37,0.749
+Islamabad,Lahore,21414,0.81,0.846
+Islamabad,Multan,21187,0.73,0.835
+Karachi,Lahore,20389,0.27,0.766
+Karachi,Multan,20666,0.32,0.836
+Lahore,Multan,21030,0.6,0.859

@@ -1,0 +1,17 @@
+model,Region,label,forecasts,CLIPER,DLinear,LSTM,PatchTST,Smart persistence
+0,Islamabad,Monsoon (JJAS),122,165.0,158.06,157.27,157.2,211.81
+1,Islamabad,Post-monsoon (ON),59,74.8,69.99,66.57,67.25,86.1
+2,Islamabad,Pre-monsoon (MAM),92,180.41,171.91,174.13,173.98,217.81
+3,Islamabad,Winter (DJF),91,110.64,106.63,108.05,109.38,134.09
+4,Karachi,Monsoon (JJAS),122,119.42,115.52,116.18,116.1,145.63
+5,Karachi,Post-monsoon (ON),59,56.17,57.7,58.21,59.75,70.33
+6,Karachi,Pre-monsoon (MAM),92,109.44,108.02,109.02,111.67,131.96
+7,Karachi,Winter (DJF),60,85.06,82.45,83.14,84.78,98.09
+8,Lahore,Monsoon (JJAS),122,143.34,140.07,140.73,139.99,188.06
+9,Lahore,Post-monsoon (ON),59,68.94,61.15,53.65,57.23,63.49
+10,Lahore,Pre-monsoon (MAM),92,136.26,133.66,130.29,130.11,168.58
+11,Lahore,Winter (DJF),91,101.39,98.3,98.82,98.53,126.0
+12,Multan,Monsoon (JJAS),122,113.04,108.85,107.9,110.99,138.59
+13,Multan,Post-monsoon (ON),59,58.17,56.63,54.21,56.97,57.17
+14,Multan,Pre-monsoon (MAM),92,117.76,114.95,116.34,117.32,144.07
+15,Multan,Winter (DJF),91,104.59,100.8,99.24,100.65,124.6

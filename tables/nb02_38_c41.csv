@@ -1,0 +1,9 @@
+Unnamed: 0,Region,H,L,trained_on,blind_RMSE,local_RMSE,CLIPER_RMSE,blind_Skill_pct,local_Skill_pct,blind_R2,local_R2,blind_minus_local_pct
+0,Islamabad,6,24,"Karachi,Lahore,Multan",113.749,106.644,112.861,-0.786,5.509,0.834,0.854,6.662
+1,Islamabad,24,96,"Karachi,Lahore,Multan",150.545,143.66,149.271,-0.853,3.759,0.71,0.736,4.792
+2,Karachi,6,24,"Islamabad,Lahore,Multan",99.009,85.304,84.446,-17.244,-1.015,0.877,0.909,16.066
+3,Karachi,24,96,"Islamabad,Lahore,Multan",112.271,103.979,103.137,-8.856,-0.816,0.842,0.864,7.975
+4,Lahore,6,24,"Islamabad,Karachi,Multan",100.913,99.422,102.587,1.632,3.085,0.858,0.863,1.5
+5,Lahore,24,96,"Islamabad,Karachi,Multan",125.011,122.07,124.419,-0.476,1.888,0.783,0.793,2.409
+6,Multan,6,24,"Islamabad,Karachi,Lahore",85.624,83.151,85.432,-0.225,2.67,0.903,0.909,2.975
+7,Multan,24,96,"Islamabad,Karachi,Lahore",111.919,106.11,106.192,-5.393,0.077,0.834,0.851,5.474

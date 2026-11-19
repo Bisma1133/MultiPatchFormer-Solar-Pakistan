@@ -1,0 +1,5 @@
+Region,original_file,request_lat,request_lon,label_previous,label_corrected,first,last,records,missing_hours,implied_lon,best_matching_request
+Islamabad,Islamabad_csv_33.699509_73.03629_fixed_23_180_PT60M.xlsx,33.699509,73.03629,Islamabad,Islamabad,2019-12-31 19:30:00+00:00,2024-12-31 18:30:00+00:00,43824,24,72.9,Islamabad
+Karachi,Karachi_csv_24.860734_67.001136_fixed_23_180_PT60M.csv,24.860734,67.001136,(absent),Karachi,2019-12-31 19:30:00+00:00,2024-11-28 23:30:00+00:00,43061,787,67.05,Karachi
+Lahore,Lahore_csv_31.52037_74.358747_fixed_23_180_PT60M.csv,31.52037,74.358747,Karachi,Lahore,2019-12-31 19:30:00+00:00,2024-12-31 18:30:00+00:00,43824,24,74.4,Lahore
+Multan,Multan_csv_30.186356_71.488581_fixed_23_180_PT60M.csv,30.186356,71.488581,Lahore and Multan,Multan,2019-12-31 19:30:00+00:00,2024-12-31 18:30:00+00:00,43824,24,71.6,Multan

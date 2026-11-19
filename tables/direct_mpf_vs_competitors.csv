@@ -1,0 +1,41 @@
+H,Region,other,n_forecasts,RMSE_MPF,RMSE_other,diff_pct,DM,p_value,q_BH,result
+1,Islamabad,PatchTST,4301,57.1009,56.7472,0.6233,1.0693,0.285,0.4222,no significant difference
+1,Karachi,PatchTST,3972,54.7344,53.9401,1.4726,2.2827,0.0225,0.05,no significant difference
+1,Lahore,PatchTST,4273,58.8413,58.5776,0.4502,0.8853,0.3761,0.5187,no significant difference
+1,Multan,PatchTST,4239,50.0332,48.8028,2.5211,4.2109,0.0,0.0002,MPF worse
+1,Pooled,PatchTST,16785,55.2994,54.6689,1.1534,3.9658,0.0001,0.0005,MPF worse
+1,Islamabad,DLinear,4301,57.1009,58.8986,-3.0522,-3.8517,0.0001,0.0006,MPF better
+1,Karachi,DLinear,3972,54.7344,55.0255,-0.529,-0.6639,0.5068,0.5792,no significant difference
+1,Lahore,DLinear,4273,58.8413,60.4062,-2.5906,-3.2894,0.001,0.0043,MPF better
+1,Multan,DLinear,4239,50.0332,50.6836,-1.2834,-1.4573,0.1451,0.2638,no significant difference
+1,Pooled,DLinear,16785,55.2994,56.4188,-1.9839,-4.868,0.0,0.0,MPF better
+1,Islamabad,LSTM,4301,57.1009,56.9222,0.314,0.5018,0.6158,0.6842,no significant difference
+1,Karachi,LSTM,3972,54.7344,53.7753,1.7835,2.6703,0.0076,0.0217,MPF worse
+1,Lahore,LSTM,4273,58.8413,58.3811,0.7884,1.3253,0.1851,0.3086,no significant difference
+1,Multan,LSTM,4239,50.0332,49.8792,0.3087,0.4121,0.6803,0.6977,no significant difference
+1,Pooled,LSTM,16785,55.2994,54.8685,0.7853,2.4048,0.0162,0.0432,MPF worse
+1,Islamabad,CLIPER+ridge,4301,57.1009,58.3065,-2.0677,-2.8444,0.0045,0.0138,MPF better
+1,Karachi,CLIPER+ridge,3972,54.7344,54.42,0.5778,0.7898,0.4297,0.5408,no significant difference
+1,Lahore,CLIPER+ridge,4273,58.8413,59.9331,-1.8216,-2.3772,0.0175,0.0437,MPF better
+1,Multan,CLIPER+ridge,4239,50.0332,49.8429,0.3817,0.4694,0.6388,0.6905,no significant difference
+1,Pooled,CLIPER+ridge,16785,55.2994,55.8012,-0.8992,-2.3547,0.0186,0.0437,MPF better
+6,Islamabad,PatchTST,6123,107.0541,107.1914,-0.128,-0.4454,0.656,0.6905,no significant difference
+6,Karachi,PatchTST,5637,84.7805,84.35,0.5104,0.7326,0.4638,0.5502,no significant difference
+6,Lahore,PatchTST,6095,98.6858,98.9619,-0.279,-1.0359,0.3003,0.429,no significant difference
+6,Multan,PatchTST,6061,83.1352,81.5968,1.8854,3.2312,0.0012,0.0045,MPF worse
+6,Pooled,PatchTST,23916,94.1393,93.8211,0.3391,0.7846,0.4327,0.5408,no significant difference
+6,Islamabad,DLinear,6123,107.0541,109.9429,-2.6275,-3.945,0.0001,0.0005,MPF better
+6,Karachi,DLinear,5637,84.7805,84.5969,0.217,0.1566,0.8755,0.8755,no significant difference
+6,Lahore,DLinear,6095,98.6858,100.6098,-1.9124,-2.9398,0.0033,0.011,MPF better
+6,Multan,DLinear,6061,83.1352,83.885,-0.8938,-1.3775,0.1684,0.2929,no significant difference
+6,Pooled,DLinear,23916,94.1393,95.6279,-1.5567,-4.3604,0.0,0.0001,MPF better
+6,Islamabad,LSTM,6123,107.0541,106.2731,0.7349,0.7264,0.4676,0.5502,no significant difference
+6,Karachi,LSTM,5637,84.7805,83.1399,1.9732,1.894,0.0583,0.1166,no significant difference
+6,Lahore,LSTM,6095,98.6858,97.6504,1.0603,1.2996,0.1938,0.3101,no significant difference
+6,Multan,LSTM,6061,83.1352,82.4893,0.783,0.8058,0.4204,0.5408,no significant difference
+6,Pooled,LSTM,23916,94.1393,93.1426,1.07,2.2342,0.0255,0.0536,no significant difference
+6,Islamabad,CLIPER+ridge,6123,107.0541,111.453,-3.9469,-5.9083,0.0,0.0,MPF better
+6,Karachi,CLIPER+ridge,5637,84.7805,83.5924,1.4213,1.4861,0.1373,0.2616,no significant difference
+6,Lahore,CLIPER+ridge,6095,98.6858,100.4645,-1.7705,-3.2746,0.0011,0.0043,MPF better
+6,Multan,CLIPER+ridge,6061,83.1352,83.6691,-0.6381,-1.1186,0.2634,0.4052,no significant difference
+6,Pooled,CLIPER+ridge,23916,94.1393,95.78,-1.713,-5.2114,0.0,0.0,MPF better
